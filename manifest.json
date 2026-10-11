@@ -1,0 +1,16 @@
+{
+  "name": "IEEE ESSTHS IAS · IES · PES Joint Chapter",
+  "short_name": "IEEE ESSTHS IIP",
+  "description": "A collaborative platform for Industrial Applications, Industrial Electronics, and Power & Energy professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050806",
+  "theme_color": "#39FF88",
+  "icons": [
+    {
+      "src": "assets/ieee-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

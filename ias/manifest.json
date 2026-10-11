@@ -1,0 +1,23 @@
+{
+  "name": "IEEE ESSTHS IAS Chapter",
+  "short_name": "ESSTHS IAS",
+  "description": "IEEE Industry Applications Society Chapter at ESSTHS Student Branch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050806",
+  "theme_color": "#39FF88",
+  "icons": [
+    {
+      "src": "../assets/ieee-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../assets/ieee-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

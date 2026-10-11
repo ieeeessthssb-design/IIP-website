@@ -1,0 +1,39 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" fill="none"/>
+  
+  <!-- Power & Energy - Grid/Transmission theme -->
+  <g fill="none" stroke="#39FF88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Power transmission towers (3) -->
+    <!-- Left tower -->
+    <g>
+      <line x1="32" y1="110" x2="32" y2="50"/>
+      <line x1="24" y1="70" x2="40" y2="70"/>
+      <line x1="22" y1="85" x2="42" y2="85"/>
+      <circle cx="32" cy="50" r="3" fill="#39FF88"/>
+    </g>
+    
+    <!-- Center tower (larger) -->
+    <g>
+      <line x1="64" y1="110" x2="64" y2="30"/>
+      <line x1="50" y1="55" x2="78" y2="55"/>
+      <line x1="48" y1="75" x2="80" y2="75"/>
+      <circle cx="64" cy="30" r="4" fill="#39FF88"/>
+    </g>
+    
+    <!-- Right tower -->
+    <g>
+      <line x1="96" y1="110" x2="96" y2="50"/>
+      <line x1="88" y1="70" x2="104" y2="70"/>
+      <line x1="86" y1="85" x2="106" y2="85"/>
+      <circle cx="96" cy="50" r="3" fill="#39FF88"/>
+    </g>
+    
+    <!-- Power lines between towers -->
+    <path d="M 32 50 Q 48 35 64 30 T 96 50" opacity="0.8"/>
+    <path d="M 32 70 Q 48 60 64 55 T 96 70" opacity="0.6"/>
+    <path d="M 32 85 Q 48 78 64 75 T 96 85" opacity="0.5"/>
+    
+    <!-- Ground level -->
+    <line x1="20" y1="110" x2="108" y2="110"/>
+  </g>
+</svg>
